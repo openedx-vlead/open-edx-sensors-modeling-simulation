@@ -1,4 +1,4 @@
-<course display_name="Sensors Modeling and Simulation"> 
+<course display_name="Sensors Modeling and Simulation">
   <chapter url_name="Introduction"/>
   <chapter url_name="Characterize_the_temperature_sensor_-_RTD"/>
   <chapter url_name="Simulate_the_performance_of_a_bio-sensor"/>
@@ -8,4 +8,5 @@
   <chapter url_name="Simulate_the_performance_of_a_chemical_sensor"/>
   <chapter url_name="Characterize_the_strain_gauge_sensor_"/>
   <chapter url_name="Characterize_the_temperature_sensor_-_Thermocouple_"/>
+  <wiki slug="COEP.SL.Anytime"/>
 </course>
