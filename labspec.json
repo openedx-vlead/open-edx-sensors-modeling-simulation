@@ -4,7 +4,7 @@
         "experiments": [{"name": "Introduction",
                          "subsections": [{"name": "Introduction"}
                                          ]},
-                         {"name": "Characterize the temperature sensor (RTD)",
+                         {"name": "Characterize the temperature sensor - RTD",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Pre Test"},
                                          {"name": "Theory"},
@@ -77,7 +77,7 @@
                                          {"name": "Review Questions"},
                                          {"name": "Reference"}
                                          ]},
-                          {"name": "Characterize the temperature sensor (Thermocouple) ",
+                          {"name": "Characterize the temperature sensor - Thermocouple ",
                          "subsections": [{"name": "Aim"},
                                          {"name": "Pre Test"},
                                          {"name": "Theory"},
