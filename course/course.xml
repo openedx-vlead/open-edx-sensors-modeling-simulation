@@ -1,0 +1,12 @@
+<course advertised_start="Anytime" display_name="Sensors Modeling and Simulation" end="&quot;2016-05-31T00:00:00+00:00&quot;" enrollment_end="&quot;2016-05-31T00:00:00+00:00&quot;" enrollment_start="&quot;2016-04-01T00:00:00+00:00&quot;" language="en" start="&quot;2016-04-01T00:00:00+00:00&quot;">
+  <chapter url_name="Introduction"/>
+  <chapter url_name="Characterize_the_temperature_sensor_-_RTD"/>
+  <chapter url_name="Simulate_the_performance_of_a_bio-sensor"/>
+  <chapter url_name="Measurement_of_level_in_a_tank_using_capacitive_type_level_probe"/>
+  <chapter url_name="Characterize_the_LVDT"/>
+  <chapter url_name="Design_an_orifice_plate_for_a_typical_application"/>
+  <chapter url_name="Simulate_the_performance_of_a_chemical_sensor"/>
+  <chapter url_name="Characterize_the_strain_gauge_sensor_"/>
+  <chapter url_name="Characterize_the_temperature_sensor_-_Thermocouple_"/>
+  <wiki slug="COEP.EEE05.Anytime"/>
+</course>
