@@ -1,4 +1,4 @@
-<course advertised_start="Anytime" display_name="Sensors Modeling and Simulation" end="&quot;2016-05-31T00:00:00+00:00&quot;" enrollment_end="&quot;2016-05-31T00:00:00+00:00&quot;" enrollment_start="&quot;2016-04-01T00:00:00+00:00&quot;" language="en" start="&quot;2016-04-01T00:00:00+00:00&quot;">
+<course advertised_start="Anytime" display_name="Sensors Modeling and Simulation" end="null" enrollment_end="null" enrollment_start="null" language="en" start="&quot;2016-04-01T00:00:00+00:00&quot;">
   <chapter url_name="Introduction"/>
   <chapter url_name="Characterize_the_temperature_sensor_-_RTD"/>
   <chapter url_name="Simulate_the_performance_of_a_bio-sensor"/>
