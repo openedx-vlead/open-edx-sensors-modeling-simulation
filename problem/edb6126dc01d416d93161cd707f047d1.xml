@@ -1,0 +1,66 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;1. When the hydrogen ion concentration of a solution increases the solution is called as&lt;&lt;&#10;(x) Acidic&#10;( ) Basic&#10;( ) Neural&#10;&#10;&gt;&gt;2) The pH of a neutral solution is&lt;&lt;&#10;( ) 0&#10;(x) 7&#10;( ) 14&#10;&#10;&gt;&gt;3) The pH scale generally ranges from&lt;&lt;&#10;(x) 0 to 14&#10;( ) -14 to 14&#10;( ) -7 to 7&#10;&#10;&gt;&gt;4) PH of distilled water is&lt;&lt;&#10;( ) 0&#10;(x) 7&#10;( ) 14&#10;&#10;&gt;&gt;5) Buffer solutions are used as a means of keeping pH at a nearly ----- value in a wide variety of chemical applications.&lt;&lt;&#10;( ) High&#10;(x) Constant&#10;( ) Neutral&#10;&#10;&gt;&gt;6) Conductivity of a pure and distilled water is&lt;&lt;&#10;( ) High&#10;( ) Low&#10;(x) Zero&#10;&#10;&gt;&gt;7) The current through the solution takes place through the movement of&lt;&lt;&#10;(x) Electrically charged particles&#10;( ) Chemically charged particles&#10;( ) Magnetically charged particles&#10;&#10;&gt;&gt;8) The SI unit of conductivity is&lt;&lt;&#10;( ) Ohms&#10;( ) Ohms per meter&#10;(x) Siemens per meter">
+  <p>1. When the hydrogen ion concentration of a solution increases the solution is called as</p>
+  <multiplechoiceresponse>
+    <choicegroup label="1. When the hydrogen ion concentration of a solution increases the solution is called as" type="MultipleChoice">
+      <choice correct="true">Acidic</choice>
+      <choice correct="false">Basic</choice>
+      <choice correct="false">Neural</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2) The pH of a neutral solution is</p>
+  <multiplechoiceresponse>
+    <choicegroup label="2) The pH of a neutral solution is" type="MultipleChoice">
+      <choice correct="false">0</choice>
+      <choice correct="true">7</choice>
+      <choice correct="false">14</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3) The pH scale generally ranges from</p>
+  <multiplechoiceresponse>
+    <choicegroup label="3) The pH scale generally ranges from" type="MultipleChoice">
+      <choice correct="true">0 to 14</choice>
+      <choice correct="false">-14 to 14</choice>
+      <choice correct="false">-7 to 7</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4) PH of distilled water is</p>
+  <multiplechoiceresponse>
+    <choicegroup label="4) PH of distilled water is" type="MultipleChoice">
+      <choice correct="false">0</choice>
+      <choice correct="true">7</choice>
+      <choice correct="false">14</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5) Buffer solutions are used as a means of keeping pH at a nearly ----- value in a wide variety of chemical applications.</p>
+  <multiplechoiceresponse>
+    <choicegroup label="5) Buffer solutions are used as a means of keeping pH at a nearly ----- value in a wide variety of chemical applications." type="MultipleChoice">
+      <choice correct="false">High</choice>
+      <choice correct="true">Constant</choice>
+      <choice correct="false">Neutral</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>6) Conductivity of a pure and distilled water is</p>
+  <multiplechoiceresponse>
+    <choicegroup label="6) Conductivity of a pure and distilled water is" type="MultipleChoice">
+      <choice correct="false">High</choice>
+      <choice correct="false">Low</choice>
+      <choice correct="true">Zero</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>7) The current through the solution takes place through the movement of</p>
+  <multiplechoiceresponse>
+    <choicegroup label="7) The current through the solution takes place through the movement of" type="MultipleChoice">
+      <choice correct="true">Electrically charged particles</choice>
+      <choice correct="false">Chemically charged particles</choice>
+      <choice correct="false">Magnetically charged particles</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>8) The SI unit of conductivity is</p>
+  <multiplechoiceresponse>
+    <choicegroup label="8) The SI unit of conductivity is" type="MultipleChoice">
+      <choice correct="false">Ohms</choice>
+      <choice correct="false">Ohms per meter</choice>
+      <choice correct="true">Siemens per meter</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

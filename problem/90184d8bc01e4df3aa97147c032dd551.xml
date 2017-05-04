@@ -1,0 +1,42 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;1. LVDT can be used as&lt;&lt;&#10;( ) Primary transducer&#10;( ) Secondary transducer&#10;(x) Both primary as well as secondary transducer&#10;&#10;&gt;&gt;2) The magnetic field in secondary of LVDT&lt;&lt;&#10;(x) Increases in one and decreses in other seconday depending upon direction of displacement&#10;( ) Decreases with displacement&#10;( ) Increases with displacement&#10;&#10;&gt;&gt;3) Change in frequency of supply voltage of LVDT causes&lt;&lt;&#10;( ) No change in output&#10;(x) Change in the output frequency with displacement&#10;( ) Increase in the output frequency with displacement&#10;&#10;&gt;&gt;4) LVDT&lt;&lt;&#10;( ) can measure very fast moving operations&#10;( ) is used for very slow operations only&#10;(x) can measure fast moving operations only upto 2 kHz&#10;&#10;&gt;&gt;5) Residual voltage in LVDT&lt;&lt;&#10;(x) Is usually acceptable if less than 1% of FS&#10;( ) Is always 0&#10;( ) Is not acceptable at all">
+  <p>1. LVDT can be used as</p>
+  <multiplechoiceresponse>
+    <choicegroup label="1. LVDT can be used as" type="MultipleChoice">
+      <choice correct="false">Primary transducer</choice>
+      <choice correct="false">Secondary transducer</choice>
+      <choice correct="true">Both primary as well as secondary transducer</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2) The magnetic field in secondary of LVDT</p>
+  <multiplechoiceresponse>
+    <choicegroup label="2) The magnetic field in secondary of LVDT" type="MultipleChoice">
+      <choice correct="true">Increases in one and decreses in other seconday depending upon direction of displacement</choice>
+      <choice correct="false">Decreases with displacement</choice>
+      <choice correct="false">Increases with displacement</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3) Change in frequency of supply voltage of LVDT causes</p>
+  <multiplechoiceresponse>
+    <choicegroup label="3) Change in frequency of supply voltage of LVDT causes" type="MultipleChoice">
+      <choice correct="false">No change in output</choice>
+      <choice correct="true">Change in the output frequency with displacement</choice>
+      <choice correct="false">Increase in the output frequency with displacement</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4) LVDT</p>
+  <multiplechoiceresponse>
+    <choicegroup label="4) LVDT" type="MultipleChoice">
+      <choice correct="false">can measure very fast moving operations</choice>
+      <choice correct="false">is used for very slow operations only</choice>
+      <choice correct="true">can measure fast moving operations only upto 2 kHz</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5) Residual voltage in LVDT</p>
+  <multiplechoiceresponse>
+    <choicegroup label="5) Residual voltage in LVDT" type="MultipleChoice">
+      <choice correct="true">Is usually acceptable if less than 1% of FS</choice>
+      <choice correct="false">Is always 0</choice>
+      <choice correct="false">Is not acceptable at all</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,42 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;1. RTD is very popular for temperature measurement because of&lt;&lt;&#10;( ) Cost&#10;( ) Self heating&#10;(x) Linearity&#10;&#10;&gt;&gt;2) In the Pt100, the suffix 100 refers to&lt;&lt;&#10;( ) Resistance at Room Temperature&#10;(x) Resistance at 0 degree C&#10;( ) 100% pure platinum&#10;&#10;&gt;&gt;3) Commonly used RTD Material is&lt;&lt;&#10;(x) Platinum&#10;( ) Aluminium&#10;( ) Both the above&#10;&#10;&gt;&gt;4) RTDs are preferred over thermistors because&lt;&lt;&#10;(x) RTDs have larger temperature range than thermistors&#10;( ) RTDs are more sensitive than thermistors&#10;( ) RTD's are less sensitive to lead resistance than thermistors&#10;&#10;&gt;&gt;5) PTC stands for&lt;&lt;&#10;( ) Platinum Temperature Coefficient&#10;( ) Partial Temperature Coefficient&#10;(x) Positive Temperature Coefficient">
+  <p>1. RTD is very popular for temperature measurement because of</p>
+  <multiplechoiceresponse>
+    <choicegroup label="1. RTD is very popular for temperature measurement because of" type="MultipleChoice">
+      <choice correct="false">Cost</choice>
+      <choice correct="false">Self heating</choice>
+      <choice correct="true">Linearity</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2) In the Pt100, the suffix 100 refers to</p>
+  <multiplechoiceresponse>
+    <choicegroup label="2) In the Pt100, the suffix 100 refers to" type="MultipleChoice">
+      <choice correct="false">Resistance at Room Temperature</choice>
+      <choice correct="true">Resistance at 0 degree C</choice>
+      <choice correct="false">100% pure platinum</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3) Commonly used RTD Material is</p>
+  <multiplechoiceresponse>
+    <choicegroup label="3) Commonly used RTD Material is" type="MultipleChoice">
+      <choice correct="true">Platinum</choice>
+      <choice correct="false">Aluminium</choice>
+      <choice correct="false">Both the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4) RTDs are preferred over thermistors because</p>
+  <multiplechoiceresponse>
+    <choicegroup label="4) RTDs are preferred over thermistors because" type="MultipleChoice">
+      <choice correct="true">RTDs have larger temperature range than thermistors</choice>
+      <choice correct="false">RTDs are more sensitive than thermistors</choice>
+      <choice correct="false">RTD's are less sensitive to lead resistance than thermistors</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5) PTC stands for</p>
+  <multiplechoiceresponse>
+    <choicegroup label="5) PTC stands for" type="MultipleChoice">
+      <choice correct="false">Platinum Temperature Coefficient</choice>
+      <choice correct="false">Partial Temperature Coefficient</choice>
+      <choice correct="true">Positive Temperature Coefficient</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

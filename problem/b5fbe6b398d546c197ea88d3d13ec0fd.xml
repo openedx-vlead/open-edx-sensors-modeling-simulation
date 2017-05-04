@@ -1,0 +1,42 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;1. “The rate of change of momentum is proportional to impressed force and takes place in the direction of that force” this is ........&lt;&lt;&#10;(x) Newton’s Second law of motion&#10;( ) Newton’s First law of motion&#10;( ) Newton’s Third law of motion&#10;&#10;&gt;&gt;2) Bernoulli’s Equation is obtained by integration of ---------------&lt;&lt;&#10;( ) Karman Momentum Equation&#10;(x) Euler’s Equation&#10;( ) Continuity Equation&#10;&#10;&gt;&gt;3) If the characteristics of flow like velocity, pressure, density etc. at any point do not change with respect to time ,the flow is called as&lt;&lt;&#10;(x) Steady Flow&#10;( ) Unsteady Flow&#10;( ) Can not say&#10;&#10;&gt;&gt;4) For the flow through pipes, Reynold’s number is less than 2000 the flow is called as&lt;&lt;&#10;( ) Transitional Flow&#10;( ) Turbulent flow&#10;(x) Laminar flow&#10;&#10;&gt;&gt;5) Reynold’s number is given by a formula&lt;&lt;&#10;( ) (V*l*µ)/ρ&#10;(x) (ρ*V*l)/µ&#10;( ) (µ*l*ρ)/V">
+  <p>1. “The rate of change of momentum is proportional to impressed force and takes place in the direction of that force” this is ........</p>
+  <multiplechoiceresponse>
+    <choicegroup label="1. “The rate of change of momentum is proportional to impressed force and takes place in the direction of that force” this is ........" type="MultipleChoice">
+      <choice correct="true">Newton’s Second law of motion</choice>
+      <choice correct="false">Newton’s First law of motion</choice>
+      <choice correct="false">Newton’s Third law of motion</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2) Bernoulli’s Equation is obtained by integration of ---------------</p>
+  <multiplechoiceresponse>
+    <choicegroup label="2) Bernoulli’s Equation is obtained by integration of ---------------" type="MultipleChoice">
+      <choice correct="false">Karman Momentum Equation</choice>
+      <choice correct="true">Euler’s Equation</choice>
+      <choice correct="false">Continuity Equation</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3) If the characteristics of flow like velocity, pressure, density etc. at any point do not change with respect to time ,the flow is called as</p>
+  <multiplechoiceresponse>
+    <choicegroup label="3) If the characteristics of flow like velocity, pressure, density etc. at any point do not change with respect to time ,the flow is called as" type="MultipleChoice">
+      <choice correct="true">Steady Flow</choice>
+      <choice correct="false">Unsteady Flow</choice>
+      <choice correct="false">Can not say</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4) For the flow through pipes, Reynold’s number is less than 2000 the flow is called as</p>
+  <multiplechoiceresponse>
+    <choicegroup label="4) For the flow through pipes, Reynold’s number is less than 2000 the flow is called as" type="MultipleChoice">
+      <choice correct="false">Transitional Flow</choice>
+      <choice correct="false">Turbulent flow</choice>
+      <choice correct="true">Laminar flow</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5) Reynold’s number is given by a formula</p>
+  <multiplechoiceresponse>
+    <choicegroup label="5) Reynold’s number is given by a formula" type="MultipleChoice">
+      <choice correct="false">(V*l*µ)/ρ</choice>
+      <choice correct="true">(ρ*V*l)/µ</choice>
+      <choice correct="false">(µ*l*ρ)/V</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

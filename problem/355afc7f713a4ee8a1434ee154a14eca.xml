@@ -1,0 +1,42 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;1. The ratio of stress upon strain is&lt;&lt;&#10;( ) Poisson’s ratio&#10;(x) Modulus of elasticity&#10;( ) Modulus of stiffness&#10;&#10;&gt;&gt;2) Young’s Modulus describes the ------ of the material&lt;&lt;&#10;( ) Roughness&#10;(x) Stiffness&#10;( ) Ruggedness&#10;&#10;&gt;&gt;3) Stress can be defined as&lt;&lt;&#10;( ) forces acting externally on the object&#10;( ) deformation caused by acting forces&#10;(x) Objects internal resisting force&#10;&#10;&gt;&gt;4) The basic types of stress to which material can be subjected are:&lt;&lt;&#10;(x) Compression, shear, tensile&#10;( ) Compression, shear, hardness&#10;( ) Tensile, hardness, strain&#10;&#10;&gt;&gt;5) The weighing balance works on the principle of comparing&lt;&lt;&#10;(x) forces&#10;( ) moments&#10;( ) Acceleration">
+  <p>1. The ratio of stress upon strain is</p>
+  <multiplechoiceresponse>
+    <choicegroup label="1. The ratio of stress upon strain is" type="MultipleChoice">
+      <choice correct="false">Poisson’s ratio</choice>
+      <choice correct="true">Modulus of elasticity</choice>
+      <choice correct="false">Modulus of stiffness</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2) Young’s Modulus describes the ------ of the material</p>
+  <multiplechoiceresponse>
+    <choicegroup label="2) Young’s Modulus describes the ------ of the material" type="MultipleChoice">
+      <choice correct="false">Roughness</choice>
+      <choice correct="true">Stiffness</choice>
+      <choice correct="false">Ruggedness</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3) Stress can be defined as</p>
+  <multiplechoiceresponse>
+    <choicegroup label="3) Stress can be defined as" type="MultipleChoice">
+      <choice correct="false">forces acting externally on the object</choice>
+      <choice correct="false">deformation caused by acting forces</choice>
+      <choice correct="true">Objects internal resisting force</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4) The basic types of stress to which material can be subjected are:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="4) The basic types of stress to which material can be subjected are:" type="MultipleChoice">
+      <choice correct="true">Compression, shear, tensile</choice>
+      <choice correct="false">Compression, shear, hardness</choice>
+      <choice correct="false">Tensile, hardness, strain</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5) The weighing balance works on the principle of comparing</p>
+  <multiplechoiceresponse>
+    <choicegroup label="5) The weighing balance works on the principle of comparing" type="MultipleChoice">
+      <choice correct="true">forces</choice>
+      <choice correct="false">moments</choice>
+      <choice correct="false">Acceleration</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

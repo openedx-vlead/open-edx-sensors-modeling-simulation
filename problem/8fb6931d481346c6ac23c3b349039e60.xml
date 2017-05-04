@@ -1,0 +1,42 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;1. Transducer is a device&lt;&lt;&#10;( ) that converts one form of energy into another form&#10;( ) has mostly eletrical output&#10;(x) with both the above properties&#10;&#10;&gt;&gt;2) Temperature is measure of degree of -------- of a substance.&lt;&lt;&#10;( ) Coldness&#10;( ) Hotness&#10;(x) Hotness or Coldness&#10;&#10;&gt;&gt;3) The International System of Measurements (SI) use -------- scale for measuring temperature&lt;&lt;&#10;( ) Celcius&#10;(x) Kelvin&#10;( ) Farenheit&#10;&#10;&gt;&gt;4) The freezing point of pure water is&lt;&lt;&#10;(x) 0 deg C&#10;( ) 5 deg C&#10;( ) 100 deg C&#10;&#10;&gt;&gt;5) Accurarcy and range of measurement does not depend upon&lt;&lt;&#10;( ) The temperature being measured&#10;(x) The size of system under measurement&#10;( ) The construction of the sensor">
+  <p>1. Transducer is a device</p>
+  <multiplechoiceresponse>
+    <choicegroup label="1. Transducer is a device" type="MultipleChoice">
+      <choice correct="false">that converts one form of energy into another form</choice>
+      <choice correct="false">has mostly eletrical output</choice>
+      <choice correct="true">with both the above properties</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2) Temperature is measure of degree of -------- of a substance.</p>
+  <multiplechoiceresponse>
+    <choicegroup label="2) Temperature is measure of degree of -------- of a substance." type="MultipleChoice">
+      <choice correct="false">Coldness</choice>
+      <choice correct="false">Hotness</choice>
+      <choice correct="true">Hotness or Coldness</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3) The International System of Measurements (SI) use -------- scale for measuring temperature</p>
+  <multiplechoiceresponse>
+    <choicegroup label="3) The International System of Measurements (SI) use -------- scale for measuring temperature" type="MultipleChoice">
+      <choice correct="false">Celcius</choice>
+      <choice correct="true">Kelvin</choice>
+      <choice correct="false">Farenheit</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4) The freezing point of pure water is</p>
+  <multiplechoiceresponse>
+    <choicegroup label="4) The freezing point of pure water is" type="MultipleChoice">
+      <choice correct="true">0 deg C</choice>
+      <choice correct="false">5 deg C</choice>
+      <choice correct="false">100 deg C</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5) Accurarcy and range of measurement does not depend upon</p>
+  <multiplechoiceresponse>
+    <choicegroup label="5) Accurarcy and range of measurement does not depend upon" type="MultipleChoice">
+      <choice correct="false">The temperature being measured</choice>
+      <choice correct="true">The size of system under measurement</choice>
+      <choice correct="false">The construction of the sensor</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

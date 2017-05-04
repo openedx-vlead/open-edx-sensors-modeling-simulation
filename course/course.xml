@@ -1,4 +1,4 @@
-<course advertised_start="Anytime" display_name="Sensors Modeling and Simulation" end="null" enrollment_end="null" enrollment_start="null" language="en" start="&quot;2016-04-01T00:00:00+00:00&quot;">
+<course advertised_start="Anytime" course_image="icons_SensoraSimulation2_04042016.jpg" display_name="Sensors Modeling and Simulation" end="null" enrollment_end="null" enrollment_start="null" instructor_info="{&quot;instructors&quot;: []}" language="en" learning_info="[]" start="&quot;2016-04-01T00:00:00+00:00&quot;">
   <chapter url_name="Introduction"/>
   <chapter url_name="Characterize_the_temperature_sensor_-_RTD"/>
   <chapter url_name="Simulate_the_performance_of_a_bio-sensor"/>
@@ -8,5 +8,6 @@
   <chapter url_name="Simulate_the_performance_of_a_chemical_sensor"/>
   <chapter url_name="Characterize_the_strain_gauge_sensor_"/>
   <chapter url_name="Characterize_the_temperature_sensor_-_Thermocouple_"/>
+  <chapter url_name="3d7a71bcabbb49f1bfb26883a1122f7d"/>
   <wiki slug="COEP.EEE05.Anytime"/>
 </course>

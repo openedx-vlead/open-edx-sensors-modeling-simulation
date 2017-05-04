@@ -1,0 +1,42 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;1. Piezo-resistive strain gauge has&lt;&lt;&#10;(x) non-linear resistance characteristic&#10;( ) has no relation with strain&#10;( ) linear resistance characteristic&#10;&#10;&gt;&gt;2) While mounting the strain gage&lt;&lt;&#10;( ) strain gauge backing is responsible for the accuracy of measurement&#10;( ) adhesive is responsible for the accuracy of measurement&#10;(x) both are responsible for the accuracy of measurement&#10;&#10;&gt;&gt;3) The characteristics of strain gauge is defined by&lt;&lt;&#10;( ) Poisson’s ratio&#10;(x) Gauge factor&#10;( ) Young’s modulus&#10;&#10;&gt;&gt;4) Strain gauge cannot be used to measure&lt;&lt;&#10;( ) Force&#10;(x) level&#10;( ) Torque&#10;&#10;&gt;&gt;5) The strain gauges don’t need any bonding material&lt;&lt;&#10;( ) semiconductor strain gauges&#10;( ) thin film strain gauges&#10;(x) diffused semiconductor strain gauges">
+  <p>1. Piezo-resistive strain gauge has</p>
+  <multiplechoiceresponse>
+    <choicegroup label="1. Piezo-resistive strain gauge has" type="MultipleChoice">
+      <choice correct="true">non-linear resistance characteristic</choice>
+      <choice correct="false">has no relation with strain</choice>
+      <choice correct="false">linear resistance characteristic</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2) While mounting the strain gage</p>
+  <multiplechoiceresponse>
+    <choicegroup label="2) While mounting the strain gage" type="MultipleChoice">
+      <choice correct="false">strain gauge backing is responsible for the accuracy of measurement</choice>
+      <choice correct="false">adhesive is responsible for the accuracy of measurement</choice>
+      <choice correct="true">both are responsible for the accuracy of measurement</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3) The characteristics of strain gauge is defined by</p>
+  <multiplechoiceresponse>
+    <choicegroup label="3) The characteristics of strain gauge is defined by" type="MultipleChoice">
+      <choice correct="false">Poisson’s ratio</choice>
+      <choice correct="true">Gauge factor</choice>
+      <choice correct="false">Young’s modulus</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4) Strain gauge cannot be used to measure</p>
+  <multiplechoiceresponse>
+    <choicegroup label="4) Strain gauge cannot be used to measure" type="MultipleChoice">
+      <choice correct="false">Force</choice>
+      <choice correct="true">level</choice>
+      <choice correct="false">Torque</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5) The strain gauges don’t need any bonding material</p>
+  <multiplechoiceresponse>
+    <choicegroup label="5) The strain gauges don’t need any bonding material" type="MultipleChoice">
+      <choice correct="false">semiconductor strain gauges</choice>
+      <choice correct="false">thin film strain gauges</choice>
+      <choice correct="true">diffused semiconductor strain gauges</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

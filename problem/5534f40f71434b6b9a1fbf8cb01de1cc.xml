@@ -1,0 +1,42 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;1. Eddy currents can be used to find out&lt;&lt;&#10;( ) Cracks in material&#10;( ) Thickness of nonconductive coating&#10;(x) Both Cracks in material and Thickness of nonconductive coating&#10;&#10;&gt;&gt;2) The heat generated in the transformer is dissipated to the surroundings mainly by&lt;&lt;&#10;( ) conduction&#10;( ) radiation&#10;(x) convection&#10;&#10;&gt;&gt;3) Basic source of magnetism is&lt;&lt;&#10;(x) movement of charged particles&#10;( ) charged particles alone&#10;( ) magnetic dipoles&#10;&#10;&gt;&gt;4) The magnetic field of a magnet&lt;&lt;&#10;( ) only exists on the poles themselves&#10;(x) weakens as the distance from the magnet increases&#10;( ) is always as strong anywhere around a magnet&#10;&#10;&gt;&gt;5) LVDT means&lt;&lt;&#10;( ) Linear Variable Differential Transistor&#10;(x) Linear Variable Differential Transformer&#10;( ) Linear Variable Displacement Transducer">
+  <p>1. Eddy currents can be used to find out</p>
+  <multiplechoiceresponse>
+    <choicegroup label="1. Eddy currents can be used to find out" type="MultipleChoice">
+      <choice correct="false">Cracks in material</choice>
+      <choice correct="false">Thickness of nonconductive coating</choice>
+      <choice correct="true">Both Cracks in material and Thickness of nonconductive coating</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2) The heat generated in the transformer is dissipated to the surroundings mainly by</p>
+  <multiplechoiceresponse>
+    <choicegroup label="2) The heat generated in the transformer is dissipated to the surroundings mainly by" type="MultipleChoice">
+      <choice correct="false">conduction</choice>
+      <choice correct="false">radiation</choice>
+      <choice correct="true">convection</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3) Basic source of magnetism is</p>
+  <multiplechoiceresponse>
+    <choicegroup label="3) Basic source of magnetism is" type="MultipleChoice">
+      <choice correct="true">movement of charged particles</choice>
+      <choice correct="false">charged particles alone</choice>
+      <choice correct="false">magnetic dipoles</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4) The magnetic field of a magnet</p>
+  <multiplechoiceresponse>
+    <choicegroup label="4) The magnetic field of a magnet" type="MultipleChoice">
+      <choice correct="false">only exists on the poles themselves</choice>
+      <choice correct="true">weakens as the distance from the magnet increases</choice>
+      <choice correct="false">is always as strong anywhere around a magnet</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5) LVDT means</p>
+  <multiplechoiceresponse>
+    <choicegroup label="5) LVDT means" type="MultipleChoice">
+      <choice correct="false">Linear Variable Differential Transistor</choice>
+      <choice correct="true">Linear Variable Differential Transformer</choice>
+      <choice correct="false">Linear Variable Displacement Transducer</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

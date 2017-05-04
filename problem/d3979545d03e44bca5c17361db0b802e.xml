@@ -1,0 +1,42 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;1. Thermocouple is --------&lt;&lt;&#10;( ) A sensor&#10;( ) A transducer&#10;(x) Sensor as well as transducer&#10;&#10;&gt;&gt;2) The temperature being sensed by a negative temperature coefficient (NTC) type thermister is linearly increasing. Its resistance will&lt;&lt;&#10;( ) linearly increase with temperature&#10;(x) exponentially decrease with temperature&#10;( ) exponentially increase with temperature&#10;&#10;&gt;&gt;3) The material used for thermistor construction is&lt;&lt;&#10;( ) Insulator&#10;( ) Conductor&#10;(x) Semiconductor&#10;&#10;&gt;&gt;4) National Institute of Standards and Technology does not recommend this temperature scale for NIST applications&lt;&lt;&#10;( ) Celsius&#10;(x) Rankine&#10;( ) Fahrenheit&#10;&#10;&gt;&gt;5) Which of the following represents normal human body temperature?&lt;&lt;&#10;(x) 310 deg k&#10;( ) 373 deg K&#10;( ) 212 deg F">
+  <p>1. Thermocouple is --------</p>
+  <multiplechoiceresponse>
+    <choicegroup label="1. Thermocouple is --------" type="MultipleChoice">
+      <choice correct="false">A sensor</choice>
+      <choice correct="false">A transducer</choice>
+      <choice correct="true">Sensor as well as transducer</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2) The temperature being sensed by a negative temperature coefficient (NTC) type thermister is linearly increasing. Its resistance will</p>
+  <multiplechoiceresponse>
+    <choicegroup label="2) The temperature being sensed by a negative temperature coefficient (NTC) type thermister is linearly increasing. Its resistance will" type="MultipleChoice">
+      <choice correct="false">linearly increase with temperature</choice>
+      <choice correct="true">exponentially decrease with temperature</choice>
+      <choice correct="false">exponentially increase with temperature</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3) The material used for thermistor construction is</p>
+  <multiplechoiceresponse>
+    <choicegroup label="3) The material used for thermistor construction is" type="MultipleChoice">
+      <choice correct="false">Insulator</choice>
+      <choice correct="false">Conductor</choice>
+      <choice correct="true">Semiconductor</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4) National Institute of Standards and Technology does not recommend this temperature scale for NIST applications</p>
+  <multiplechoiceresponse>
+    <choicegroup label="4) National Institute of Standards and Technology does not recommend this temperature scale for NIST applications" type="MultipleChoice">
+      <choice correct="false">Celsius</choice>
+      <choice correct="true">Rankine</choice>
+      <choice correct="false">Fahrenheit</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5) Which of the following represents normal human body temperature?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="5) Which of the following represents normal human body temperature?" type="MultipleChoice">
+      <choice correct="true">310 deg k</choice>
+      <choice correct="false">373 deg K</choice>
+      <choice correct="false">212 deg F</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

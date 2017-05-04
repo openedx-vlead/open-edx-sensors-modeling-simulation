@@ -1,0 +1,42 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;1. Vena contracta is a point where&lt;&lt;&#10;( ) velocity is minimum and static pressure is minimum&#10;( ) Velocity is constant and static pressure is minimum&#10;(x) Velocity is maximum and static pressure is minimum&#10;&#10;&gt;&gt;2) Generally material used for the orifice plate is&lt;&lt;&#10;( ) Copper&#10;(x) Phosphor Bronze&#10;( ) Aluminium&#10;&#10;&gt;&gt;3) Beta ratio is defined as&lt;&lt;&#10;(x) (Orifice Diameter d)/(Pipe Diameter D)&#10;( ) (Pipe Diameter D ) /(Orifice Diameter d)&#10;( ) (Pipe Diameter D ) / ( Orifice Area a)&#10;&#10;&gt;&gt;4) To convert lpm to m3/sec&lt;&lt;&#10;( ) Multiply by 1&#10;( ) Divide by 1.667 * 10 -5&#10;(x) Multiply by 1.667 * 10 -5&#10;&#10;&gt;&gt;5) orifice plate can be of ............. type/types&lt;&lt;&#10;( ) Eccentric&#10;( ) Concentric&#10;(x) any one of both">
+  <p>1. Vena contracta is a point where</p>
+  <multiplechoiceresponse>
+    <choicegroup label="1. Vena contracta is a point where" type="MultipleChoice">
+      <choice correct="false">velocity is minimum and static pressure is minimum</choice>
+      <choice correct="false">Velocity is constant and static pressure is minimum</choice>
+      <choice correct="true">Velocity is maximum and static pressure is minimum</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2) Generally material used for the orifice plate is</p>
+  <multiplechoiceresponse>
+    <choicegroup label="2) Generally material used for the orifice plate is" type="MultipleChoice">
+      <choice correct="false">Copper</choice>
+      <choice correct="true">Phosphor Bronze</choice>
+      <choice correct="false">Aluminium</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3) Beta ratio is defined as</p>
+  <multiplechoiceresponse>
+    <choicegroup label="3) Beta ratio is defined as" type="MultipleChoice">
+      <choice correct="true">(Orifice Diameter d)/(Pipe Diameter D)</choice>
+      <choice correct="false">(Pipe Diameter D ) /(Orifice Diameter d)</choice>
+      <choice correct="false">(Pipe Diameter D ) / ( Orifice Area a)</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4) To convert lpm to m3/sec</p>
+  <multiplechoiceresponse>
+    <choicegroup label="4) To convert lpm to m3/sec" type="MultipleChoice">
+      <choice correct="false">Multiply by 1</choice>
+      <choice correct="false">Divide by 1.667 * 10 -5</choice>
+      <choice correct="true">Multiply by 1.667 * 10 -5</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5) orifice plate can be of ............. type/types</p>
+  <multiplechoiceresponse>
+    <choicegroup label="5) orifice plate can be of ............. type/types" type="MultipleChoice">
+      <choice correct="false">Eccentric</choice>
+      <choice correct="false">Concentric</choice>
+      <choice correct="true">any one of both</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

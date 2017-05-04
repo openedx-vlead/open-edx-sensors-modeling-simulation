@@ -1,0 +1,42 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;1. CJC stands for&lt;&lt;&#10;( ) Central Junction Compensation&#10;(x) Cold Junction compensation&#10;( ) Cold Joint Compensation&#10;&#10;&gt;&gt;2) Lead wire compensation is necessary for&lt;&lt;&#10;( ) RTDs&#10;( ) T/Cs&#10;(x) Both RTDs and T/Cs&#10;&#10;&gt;&gt;3) For j type thermocouple materials used are&lt;&lt;&#10;(x) Iron Constantan&#10;( ) Cromel Constantan&#10;( ) Cromel Alumel&#10;&#10;&gt;&gt;4) Thermowell is used for protection of&lt;&lt;&#10;( ) Process fluid&#10;(x) Sensing element&#10;( ) Both a and b&#10;&#10;&gt;&gt;5) --- Type thermocouple is used for cryogenic applications&lt;&lt;&#10;( ) S&#10;( ) T&#10;(x) E">
+  <p>1. CJC stands for</p>
+  <multiplechoiceresponse>
+    <choicegroup label="1. CJC stands for" type="MultipleChoice">
+      <choice correct="false">Central Junction Compensation</choice>
+      <choice correct="true">Cold Junction compensation</choice>
+      <choice correct="false">Cold Joint Compensation</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2) Lead wire compensation is necessary for</p>
+  <multiplechoiceresponse>
+    <choicegroup label="2) Lead wire compensation is necessary for" type="MultipleChoice">
+      <choice correct="false">RTDs</choice>
+      <choice correct="false">T/Cs</choice>
+      <choice correct="true">Both RTDs and T/Cs</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3) For j type thermocouple materials used are</p>
+  <multiplechoiceresponse>
+    <choicegroup label="3) For j type thermocouple materials used are" type="MultipleChoice">
+      <choice correct="true">Iron Constantan</choice>
+      <choice correct="false">Cromel Constantan</choice>
+      <choice correct="false">Cromel Alumel</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4) Thermowell is used for protection of</p>
+  <multiplechoiceresponse>
+    <choicegroup label="4) Thermowell is used for protection of" type="MultipleChoice">
+      <choice correct="false">Process fluid</choice>
+      <choice correct="true">Sensing element</choice>
+      <choice correct="false">Both a and b</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5) --- Type thermocouple is used for cryogenic applications</p>
+  <multiplechoiceresponse>
+    <choicegroup label="5) --- Type thermocouple is used for cryogenic applications" type="MultipleChoice">
+      <choice correct="false">S</choice>
+      <choice correct="false">T</choice>
+      <choice correct="true">E</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

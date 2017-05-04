@@ -1,0 +1,50 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;1. pH is a measurement of the activity of -----------ions in the sample.&lt;&lt;&#10;(x) Hydrogen ion&#10;( ) Carbon ion&#10;( ) Oxygen ion&#10;&#10;&gt;&gt;2) In pH measurement Optimum measurement accuracy depends on&lt;&lt;&#10;( ) Solution concentration&#10;(x) Salt bridge and Measuring electrode&#10;( ) Probe Length&#10;&#10;&gt;&gt;3) Electrolytes are substances containing&lt;&lt;&#10;(x) ions&#10;( ) cations&#10;( ) anions&#10;&#10;&gt;&gt;4) Electrical conductivity is a measure of the ability of a solution to carry a -----------.&lt;&lt;&#10;(x) Current&#10;( ) Resistance&#10;( ) Inductance&#10;&#10;&gt;&gt;5) In conductivity measurement -------migrate to the negative electrode, the ------ to the positive electrode.&lt;&lt;&#10;( ) Cations,Cations&#10;(x) Cations,Anions&#10;( ) Anions, Cations&#10;&#10;&gt;&gt;6) The accuracy of conductivity measurements can be influenced by&lt;&lt;&#10;( ) Polarization&#10;( ) Contamination&#10;(x) Both, Polarization and Contamination">
+  <p>1. pH is a measurement of the activity of -----------ions in the sample.</p>
+  <multiplechoiceresponse>
+    <choicegroup label="1. pH is a measurement of the activity of -----------ions in the sample." type="MultipleChoice">
+      <choice correct="true">Hydrogen ion</choice>
+      <choice correct="false">Carbon ion</choice>
+      <choice correct="false">Oxygen ion</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2) In pH measurement Optimum measurement accuracy depends on</p>
+  <multiplechoiceresponse>
+    <choicegroup label="2) In pH measurement Optimum measurement accuracy depends on" type="MultipleChoice">
+      <choice correct="false">Solution concentration</choice>
+      <choice correct="true">Salt bridge and Measuring electrode</choice>
+      <choice correct="false">Probe Length</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3) Electrolytes are substances containing</p>
+  <multiplechoiceresponse>
+    <choicegroup label="3) Electrolytes are substances containing" type="MultipleChoice">
+      <choice correct="true">ions</choice>
+      <choice correct="false">cations</choice>
+      <choice correct="false">anions</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4) Electrical conductivity is a measure of the ability of a solution to carry a -----------.</p>
+  <multiplechoiceresponse>
+    <choicegroup label="4) Electrical conductivity is a measure of the ability of a solution to carry a -----------." type="MultipleChoice">
+      <choice correct="true">Current</choice>
+      <choice correct="false">Resistance</choice>
+      <choice correct="false">Inductance</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5) In conductivity measurement -------migrate to the negative electrode, the ------ to the positive electrode.</p>
+  <multiplechoiceresponse>
+    <choicegroup label="5) In conductivity measurement -------migrate to the negative electrode, the ------ to the positive electrode." type="MultipleChoice">
+      <choice correct="false">Cations,Cations</choice>
+      <choice correct="true">Cations,Anions</choice>
+      <choice correct="false">Anions, Cations</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>6) The accuracy of conductivity measurements can be influenced by</p>
+  <multiplechoiceresponse>
+    <choicegroup label="6) The accuracy of conductivity measurements can be influenced by" type="MultipleChoice">
+      <choice correct="false">Polarization</choice>
+      <choice correct="false">Contamination</choice>
+      <choice correct="true">Both, Polarization and Contamination</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

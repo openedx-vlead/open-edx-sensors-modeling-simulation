@@ -1,1 +1,26 @@
-{}
+{
+    "icons_SensoraSimulation2_04042016.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE05", 
+            "name": "icons_SensoraSimulation2_04042016.jpg", 
+            "org": "COE-Pune", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "icons_SensoraSimulation2_04042016.jpg", 
+        "filename": "asset-v1:COE-Pune+EEE05+Anytime+type@asset+block@icons_SensoraSimulation2_04042016.jpg", 
+        "import_path": "icons_SensoraSimulation2_04042016.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "COE-Pune", 
+            "EEE05", 
+            "thumbnail", 
+            "icons_SensoraSimulation2_04042016.jpg", 
+            null
+        ]
+    }
+}

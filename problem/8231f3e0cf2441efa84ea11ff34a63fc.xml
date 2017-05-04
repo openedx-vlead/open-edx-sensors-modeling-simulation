@@ -1,0 +1,42 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;1. Sensitivity of Capacitance Level Probe can be increased by&lt;&lt;&#10;( ) increasing the probe length (A)&#10;( ) decreasing the size of the gap (D).&#10;(x) either or both of the above&#10;&#10;&gt;&gt;2) Capacitance sensor cannot be used to measure level of&lt;&lt;&#10;( ) interface between two immiscible liquids&#10;(x) materials with large particle sizes exceeding 1/2 in. in diameter&#10;( ) slurries&#10;&#10;&gt;&gt;3) The principle of operation used in Capacitive transducers is&lt;&lt;&#10;(x) change of dielectric strength&#10;( ) change of area of plates&#10;( ) change of capacitance with change of distance between plates&#10;&#10;&gt;&gt;4) Capacitive transducers are normally used for&lt;&lt;&#10;( ) static measurements&#10;(x) dynamic measurements&#10;( ) both static and dynamic measurements&#10;&#10;&gt;&gt;5) The output impedance of a typical Capacitance Transducer is&lt;&lt;&#10;( ) moderate&#10;( ) very low&#10;(x) very high">
+  <p>1. Sensitivity of Capacitance Level Probe can be increased by</p>
+  <multiplechoiceresponse>
+    <choicegroup label="1. Sensitivity of Capacitance Level Probe can be increased by" type="MultipleChoice">
+      <choice correct="false">increasing the probe length (A)</choice>
+      <choice correct="false">decreasing the size of the gap (D).</choice>
+      <choice correct="true">either or both of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2) Capacitance sensor cannot be used to measure level of</p>
+  <multiplechoiceresponse>
+    <choicegroup label="2) Capacitance sensor cannot be used to measure level of" type="MultipleChoice">
+      <choice correct="false">interface between two immiscible liquids</choice>
+      <choice correct="true">materials with large particle sizes exceeding 1/2 in. in diameter</choice>
+      <choice correct="false">slurries</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3) The principle of operation used in Capacitive transducers is</p>
+  <multiplechoiceresponse>
+    <choicegroup label="3) The principle of operation used in Capacitive transducers is" type="MultipleChoice">
+      <choice correct="true">change of dielectric strength</choice>
+      <choice correct="false">change of area of plates</choice>
+      <choice correct="false">change of capacitance with change of distance between plates</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4) Capacitive transducers are normally used for</p>
+  <multiplechoiceresponse>
+    <choicegroup label="4) Capacitive transducers are normally used for" type="MultipleChoice">
+      <choice correct="false">static measurements</choice>
+      <choice correct="true">dynamic measurements</choice>
+      <choice correct="false">both static and dynamic measurements</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5) The output impedance of a typical Capacitance Transducer is</p>
+  <multiplechoiceresponse>
+    <choicegroup label="5) The output impedance of a typical Capacitance Transducer is" type="MultipleChoice">
+      <choice correct="false">moderate</choice>
+      <choice correct="false">very low</choice>
+      <choice correct="true">very high</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>
